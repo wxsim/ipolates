@@ -1,0 +1,8 @@
+/scripts/
+/test/
+/.editorconfig
+/.gitattributes
+/.npmignore
+/CONTRIBUTING.md
+/npm-debug.log
+/tmp
